@@ -1,0 +1,13 @@
+# Python files to ignore 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+.env 
+.venv 
+env/ 
+venv/ 
+risk_env/ 
+.ipynb_checkpoints 
+.DS_Store 
+# Data files
+data/*.csv
